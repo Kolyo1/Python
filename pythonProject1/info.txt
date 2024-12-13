@@ -1,0 +1,10 @@
+ID: A3
+Product Name: Vanilla
+Weight: 12
+Price KG: 600.00
+
+ID: B5
+Product Name: Chocolate
+Weight: 800
+Price KG: 12.00
+

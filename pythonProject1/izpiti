@@ -1,0 +1,3 @@
+n = int(input("Enter n:"))
+while True:
+1
