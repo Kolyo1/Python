@@ -21,8 +21,7 @@ def validate_Id():
         if re.match(r'^[A-Z]\d+$', id):
             return id
         else:
-            print(
-                "Invalid ID format. Please enter an ID in the format 'A2', where 'A' is a letter and '2' is a number.")
+            print("Invalid ID format. Please enter an ID in the format 'A2', where 'A' is a letter and '2' is a number.")
 
 def validate_product_name():
     while True:
